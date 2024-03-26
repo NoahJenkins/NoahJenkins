@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Cyber Security Analyst.
 
-- 🌱 I’m currently learning Python Development.
+- 🌱 I’m studying ethical hacking and pen testing.
 
 - 💬 Ask me about Voice Acting and Drone Piloting.
 

@@ -4,6 +4,6 @@
 
 - 🌱 I’m studying for the Sec+. ethical hacking, and pen testing.
 
-- 💬 Ask me about building automated and scalable IAM solutions (also voice acting).
+- 💬 Ask me about building automated and scalable IAM solutions (also voice acting). I also love talking about home labs!!!
 
 - 📫 Feel free reach out to me on LinkedIn (link under my bio)

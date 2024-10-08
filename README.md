@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Cyber Security Analyst.
+- 🔭 I’m currently working as an Azure IAM Administrator 
 
-- 🌱 I’m studying for the Sec+. ethical hacking, and pen testing.
+- 🌱 I’m studying for the AZ-500
 
 - 💬 Ask me about building automated and scalable IAM solutions (also voice acting). I also love talking about home labs!!!
 

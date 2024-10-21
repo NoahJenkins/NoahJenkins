@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working as an Azure IAM Administrator 
 
-- 🌱 I’m studying for the AZ-500
+- 🌱 I’m currently working towards the goal of working as an App Sec or DecSecOps engineer. Currently I am studying for the AWS CCP and Terraform 003 to diversify my skill sets outside of Azure's offerings. 
+
+- My current certifications include the following: Sec +, ISC2 CC, SC-300, AZ-900, SC-900, DP-900, MS-900, PL-900.
 
 - 💬 Ask me about building automated and scalable IAM solutions (also voice acting). I also love talking about home labs!!!
 

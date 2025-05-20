@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Cloud Administrator. 
+- 🔭 I’m currently working as a Cloud Engineer. 
 
 - 🌱 I’m currently studying for the AZ 305. 
 

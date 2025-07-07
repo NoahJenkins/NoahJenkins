@@ -67,9 +67,6 @@
   <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank">
     <img src="https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-blueviolet?logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity (CC)"/>
   </a>
-  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20CCP-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
-  </a>
   <a href="https://www.credly.com/badges/f883de57-e9a0-4e16-83bc-255bdd58005d/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS%20CCP-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner (New Badge)"/>
   </a>

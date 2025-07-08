@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working as a Cloud Engineer. 
 
-- 🌱 I’m currently diving deeper into the react ecosystem. Currently focusing on NextJS and React Native, with the plan to launch a new project later this year! 
+- 🌱 I’m also diving deeper into the react ecosystem; Focusing on NextJS and React Native, with the plan to launch a new project later this year! 
 
 - 💬 I love to talk about building awesome software and businesses, especially automating anything and everything! 
 
-- 📫 Feel free to reach out to me on LinkedIn (link under my bio).
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/noah-jenkins/)!
 
 ## Tools and Tech
 

@@ -1,6 +1,3 @@
-## Hi there, I'm Noah!
-
-
 - 🔭 I’m currently working as a Cloud Engineer specializing in Azure at Middleby. 
 
 - 🌱 I’m also diving deeper into the react ecosystem; Focusing on NextJS and React Native, with the plan to launch a new project later this year! 

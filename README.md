@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Noah!
 
-- 🔭 I’m currently working as a Cloud Engineer. 
+- 🔭 I’m currently working as a Cloud Engineer specializing in Azure at Middleby. 
 
 - 🌱 I’m also diving deeper into the react ecosystem; Focusing on NextJS and React Native, with the plan to launch a new project later this year! 
 
 - 💬 I love to talk about building awesome software and businesses, especially automating anything and everything! 
 
-- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/noah-jenkins/)!
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/noah-jenkins/), or send me an email at [noah@noahjenkins.com](mailto:noah@noahjenkins.com).
 
 ## Tools and Tech
 

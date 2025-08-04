@@ -11,11 +11,11 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
 ## Where I've Worked
 
 <p align="left">
-  <img src="https://logo.clearbit.com/middleby.com" alt="Middleby" height="60" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/msimga.com" alt="MSI - Millennial Specialty Insurance" height="60" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/diligentrobots.com" alt="Diligent Robotics" height="60" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/schwab.com" alt="Charles Schwab" height="60" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/bestbuy.com" alt="Best Buy" height="60" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://logo.clearbit.com/middleby.com" alt="Middleby" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://logo.clearbit.com/msimga.com" alt="MSI - Millennial Specialty Insurance" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://logo.clearbit.com/diligentrobots.com" alt="Diligent Robotics" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://logo.clearbit.com/schwab.com" alt="Charles Schwab" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://logo.clearbit.com/bestbuy.com" alt="Best Buy" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
 ## Tools and Tech

@@ -1,10 +1,12 @@
-- 🔭 I’m currently working as a Cloud Engineer specializing in Azure at Middleby. 
+Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software Developer with a passion for building meaningful technology solutions.
 
-- 🌱 I’m also diving deeper into the react ecosystem; Focusing on NextJS and React Native, with the plan to launch a new project later this year! 
+- 🔭 I'm a Cloud Engineer at Middleby, where I excel in Azure administration, setting up and managing resources, and building automated workflows using Powershell and Bicep.
 
-- 💬 I love to talk about building awesome software and businesses, especially automating anything and everything! 
+- 💻 As a full stack Software Developer, I have experience building web and mobile apps, specializing in using React, Next.js with Typescript. 
 
-- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/noah-jenkins/), or send me an email at [noah@noahjenkins.com](mailto:noah@noahjenkins.com).
+- 🎙️ I'm also a talented freelance Voice Over Artist, lending my voice to both character and commercial projects - bringing creativity to both code and audio!
+
+- 🛡️ My diverse career history spans cyber security, clinical robotics, and fintech, giving me a unique perspective on technology solutions across industries.
 
 ## Tools and Tech
 

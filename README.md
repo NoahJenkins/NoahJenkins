@@ -65,25 +65,28 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
 
 <!-- Markdown badge style for maximum compatibility -->
 <p align="left">
-  <a href="https://www.credly.com/badges/63316b60-f62d-4c1b-8d7c-7c8bfa41a1ba/public_url" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/3F4EBB5803C89834?sharingId=D866D5A25E982D9E" target="_blank">
     <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-blue?logo=microsoftazure&logoColor=white" alt="AZ-104: Microsoft Azure Administrator"/>
   </a>
-  <a href="https://www.credly.com/badges/2e2d5b6c-7c1e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/EE63FE471770D917?sharingId=D866D5A25E982D9E" target="_blank">
     <img src="https://img.shields.io/badge/SC--300-Identity%20and%20Access%20Admin-blue?logo=microsoftazure&logoColor=white" alt="SC-300: Microsoft Identity and Access Administrator"/>
   </a>
-  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/1D0047BD95C386B2?sharingId=D866D5A25E982D9E" target="_blank">
     <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?logo=microsoftazure&logoColor=white" alt="AZ-900: Microsoft Azure Fundamentals"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/B350EB58F04B500E?sharingId=D866D5A25E982D9E" target="_blank">
+    <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?logo=microsoftazure&logoColor=white" alt="AI-900: Microsoft Azure AI Fundamentals"/>
   </a>
   <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank">
     <img src="https://img.shields.io/badge/SC--900-Security%20Compliance%20Identity-blue?logo=microsoftazure&logoColor=white" alt="SC-900: Microsoft Security, Compliance, and Identity Fundamentals"/>
   </a>
-  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/6C9576D402BFA5EC?sharingId=D866D5A25E982D9E" target="_blank">
     <img src="https://img.shields.io/badge/DP--900-Data%20Fundamentals-blue?logo=microsoftazure&logoColor=white" alt="DP-900: Microsoft Azure Data Fundamentals"/>
   </a>
-  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/487BFDAEC0EE853?sharingId=D866D5A25E982D9E" target="_blank">
     <img src="https://img.shields.io/badge/MS--900-Microsoft%20365%20Fundamentals-blue?logo=microsoftazure&logoColor=white" alt="MS-900: Microsoft 365 Fundamentals"/>
   </a>
-  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/720ECC1EB0D35576?sharingId=D866D5A25E982D9E" target="_blank">
     <img src="https://img.shields.io/badge/PL--900-Power%20Platform%20Fundamentals-blue?logo=microsoftazure&logoColor=white" alt="PL-900: Microsoft Power Platform Fundamentals"/>
   </a>
   <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank">

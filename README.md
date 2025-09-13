@@ -65,6 +65,9 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
 
 <!-- Markdown badge style for maximum compatibility -->
 <p align="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/B52C8BE63A5DACFB?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AZ--305-Azure%20Architect-blue?logo=microsoftazure&logoColor=white" alt="AZ-305: Microsoft Azure Architect"/>
+  </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/3F4EBB5803C89834?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-blue?logo=microsoftazure&logoColor=white" alt="AZ-104: Microsoft Azure Administrator"/>
   </a>

@@ -71,6 +71,9 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/3F4EBB5803C89834?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-blue?logo=microsoftazure&logoColor=white" alt="AZ-104: Microsoft Azure Administrator"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/certifications/exams/az-500" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer-blue?logo=microsoftazure&logoColor=white" alt="AZ-500: Microsoft Azure Security Technologies"/>
+  </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/EE63FE471770D917?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SC--300-Identity%20and%20Access%20Admin-blue?logo=microsoftazure&logoColor=white" alt="SC-300: Microsoft Identity and Access Administrator"/>
   </a>

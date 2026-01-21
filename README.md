@@ -11,11 +11,11 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
 ## Where I've Worked
 
 <p align="left">
-  <img src="https://logo.clearbit.com/middleby.com" alt="Middleby" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/msimga.com" alt="MSI - Millennial Specialty Insurance" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/diligentrobots.com" alt="Diligent Robotics" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/schwab.com" alt="Charles Schwab" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/bestbuy.com" alt="Best Buy" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://img.shields.io/badge/Middleby-Cloud%20Engineer-0066CC?style=for-the-badge" alt="Middleby" height="45"/>
+  <img src="https://img.shields.io/badge/MSI-Millennial%20Specialty%20Insurance-FF6600?style=for-the-badge" alt="MSI - Millennial Specialty Insurance" height="45"/>
+  <img src="https://img.shields.io/badge/Diligent%20Robotics-Robotics%20Engineer-00A8E1?style=for-the-badge" alt="Diligent Robotics" height="45"/>
+  <img src="https://img.shields.io/badge/Charles%20Schwab-Financial%20Analyst-00ADEF?style=for-the-badge" alt="Charles Schwab" height="45"/>
+  <img src="https://img.shields.io/badge/Best%20Buy-Technical%20Consultant-0046BE?style=for-the-badge" alt="Best Buy" height="45"/>
 </p>
 
 ## Tools and Tech
@@ -108,7 +108,10 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
     <img src="https://img.shields.io/badge/Terraform-Associate-623CE4?logo=terraform&logoColor=white" alt="Terraform Associate"/>
   </a>
   <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Foundations-181717?logo=github&logoColor=white" alt="GitHub Foundations"/>
+    <img src="https://img.shields.io/badge/GH--900-Github%20Foundations-181717?logo=github&logoColor=white" alt="GH-900: Github Foundations"/>
+  </a>
+  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GH--300-Github%20Copilot-181717?logo=github&logoColor=white" alt="GH-300: Github Copilot"/>
   </a>
 </p>
 

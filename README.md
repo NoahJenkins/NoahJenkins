@@ -11,11 +11,11 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
 ## Where I've Worked
 
 <p align="left">
-  <img src="https://logo.clearbit.com/middleby.com" alt="Middleby" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/msimga.com" alt="MSI - Millennial Specialty Insurance" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/diligentrobots.com" alt="Diligent Robotics" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/schwab.com" alt="Charles Schwab" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://logo.clearbit.com/bestbuy.com" alt="Best Buy" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://download.logo.wine/logo/Middleby_Corporation/Middleby_Corporation-Logo.wine.png" alt="Middleby" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://msimga.com/wp-content/uploads/sites/7/2025/08/MSI-Logo-New-Tagline-RBG-01.png" alt="MSI - Millennial Specialty Insurance" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://diligentrobots.com&size=128" alt="Diligent Robotics" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Charles_Schwab_Corporation_logo.svg/1024px-Charles_Schwab_Corporation_logo.svg.png" alt="Charles Schwab" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Best_Buy_Logo.svg/1024px-Best_Buy_Logo.svg.png" alt="Best Buy" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
 ## Tools and Tech
@@ -29,6 +29,7 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48"/>
   <img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/visualstudiobicep/0.36.1.42791/1748626478444/Microsoft.VisualStudio.Services.Icons.Default" alt="Bicep" width="48" height="48"/>
 </p>
@@ -52,6 +53,7 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/visualstudiobicep/0.36.1.42791/1748626478444/Microsoft.VisualStudio.Services.Icons.Default" alt="Bicep" width="40" height="40"/>
 </p>
 
@@ -71,7 +73,7 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/3F4EBB5803C89834?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-blue?logo=microsoftazure&logoColor=white" alt="AZ-104: Microsoft Azure Administrator"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/certifications/exams/az-500" target="_blank" rel="noopener noreferrer">
+  <a href="https://learn.microsoft.com/en-us/users/geekyvoices/credentials/certification/azure-security-engineer?tab=credentials-tab" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer-blue?logo=microsoftazure&logoColor=white" alt="AZ-500: Microsoft Azure Security Technologies"/>
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/EE63FE471770D917?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
@@ -108,7 +110,10 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
     <img src="https://img.shields.io/badge/Terraform-Associate-623CE4?logo=terraform&logoColor=white" alt="Terraform Associate"/>
   </a>
   <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Foundations-181717?logo=github&logoColor=white" alt="GitHub Foundations"/>
+    <img src="https://img.shields.io/badge/GH--900-GitHub%20Fundamentals-181717?logo=github&logoColor=white" alt="GH-900: GitHub Fundamentals"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/geekyvoices/credentials/certification/github-copilot?tab=credentials-tab" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GH--300-GitHub%20Copilot-181717?logo=github&logoColor=white" alt="GH-300: GitHub Copilot"/>
   </a>
 </p>
 

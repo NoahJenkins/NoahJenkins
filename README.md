@@ -60,7 +60,7 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
 ### My Most Used Languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahjenkins&layout=donut&hide=css,html&langs_count=6" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoahJenkins&layout=donut&hide=css,html&langs_count=6" alt="Top Langs"/>
 </a>
 
 ## Certifications

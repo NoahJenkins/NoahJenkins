@@ -59,11 +59,21 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
 
 ### My Most Used Languages
 
-![Top Languages](github-languages.svg)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahJenkins&layout=pie&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  </a>
+</p>
+
+### Activity
+
+<p align="left">
+  <img src="github-metrics-iso.svg" alt="Isometric Calendar Check" width="100%">
+</p>
 
 ## Certifications
 
-<!-- Markdown badge style for maximum compatibility -->
+### Cloud & DevOps
 <p align="left">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/B52C8BE63A5DACFB?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--305-Azure%20Architect-blue?logo=microsoftazure&logoColor=white" alt="AZ-305: Microsoft Azure Architect"/>
@@ -71,12 +81,32 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/3F4EBB5803C89834?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-blue?logo=microsoftazure&logoColor=white" alt="AZ-104: Microsoft Azure Administrator"/>
   </a>
+  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Terraform-Associate-623CE4?logo=terraform&logoColor=white" alt="Terraform Associate"/>
+  </a>
+  <a href="https://www.credly.com/badges/f883de57-e9a0-4e16-83bc-255bdd58005d/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AWS%20CCP-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner (New Badge)"/>
+  </a>
+</p>
+
+### Security & Identity
+<p align="left">
   <a href="https://learn.microsoft.com/en-us/users/geekyvoices/credentials/certification/azure-security-engineer?tab=credentials-tab" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer-blue?logo=microsoftazure&logoColor=white" alt="AZ-500: Microsoft Azure Security Technologies"/>
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/EE63FE471770D917?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SC--300-Identity%20and%20Access%20Admin-blue?logo=microsoftazure&logoColor=white" alt="SC-300: Microsoft Identity and Access Administrator"/>
   </a>
+  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white" alt="CompTIA Security+"/>
+  </a>
+  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-blueviolet?logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity (CC)"/>
+  </a>
+</p>
+
+### Fundamentals & Other
+<p align="left">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/GeekyVoices/1D0047BD95C386B2?sharingId=D866D5A25E982D9E" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-blue?logo=microsoftazure&logoColor=white" alt="AZ-900: Microsoft Azure Fundamentals"/>
   </a>
@@ -96,22 +126,18 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
     <img src="https://img.shields.io/badge/PL--900-Power%20Platform%20Fundamentals-blue?logo=microsoftazure&logoColor=white" alt="PL-900: Microsoft Power Platform Fundamentals"/>
   </a>
   <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white" alt="CompTIA Security+"/>
-  </a>
-  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-blueviolet?logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity (CC)"/>
-  </a>
-  <a href="https://www.credly.com/badges/f883de57-e9a0-4e16-83bc-255bdd58005d/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/AWS%20CCP-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner (New Badge)"/>
-  </a>
-  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Terraform-Associate-623CE4?logo=terraform&logoColor=white" alt="Terraform Associate"/>
-  </a>
-  <a href="https://www.credly.com/badges/70c5b6c7-8b4e-4e5c-9c7e-7b4e6c1b7b7e/public_url" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GH--900-GitHub%20Fundamentals-181717?logo=github&logoColor=white" alt="GH-900: GitHub Fundamentals"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/users/geekyvoices/credentials/certification/github-copilot?tab=credentials-tab" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GH--300-GitHub%20Copilot-181717?logo=github&logoColor=white" alt="GH-300: GitHub Copilot"/>
+  </a>
+</p>
+
+## Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/noahjenkins">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 

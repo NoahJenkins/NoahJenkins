@@ -1,49 +1,51 @@
 name: Generate GitHub Metrics
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # daily at UTC midnight
-  workflow_dispatch: {}
+    - cron: '0 6 * * *' # daily at 06:00 UTC
   push:
-    branches: ["main", "master"]
-
-permissions:
-  contents: write
+    branches:
+      - main
+      - master
 
 jobs:
-  generate-metrics:
-    name: Generate GitHub Metrics SVG
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Generate metrics (languages only)
+      - name: Generate Metrics SVG
         uses: lowlighter/metrics@latest
         with:
-          # Token used to read repo data (use a repo secret named METRICS_TOKEN)
+          # Token stored in repository secrets (see README notes)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Output filename (committed back to repo)
           filename: github-languages.svg
 
-          # Compact output — only show configured plugins
+          # Minimal base to keep output compact (only plugins shown)
           base: ""
 
-          # Languages plugin (compact, similar to your previous card)
+          # User to collect metrics for
+          user: NoahJenkins
+
+          # Enable languages plugin and keep it compact
           plugin_languages: yes
-          plugin_languages_limit: 6
           plugin_languages_ignored: html, css, tex
           plugin_languages_details: percentage
+          plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_indepth: no
 
-      - name: Commit generated SVG
-        uses: EndBug/add-and-commit@v9
+      - name: Commit generated file
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
-          author_name: github-actions[bot]
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: chore(metrics): update github-languages.svg
-          add: github-languages.svg
+          commit_message: "chore(metrics): add generated github-languages.svg"
+          file_pattern: github-languages.svg
+          branch: ${{ github.ref_name }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

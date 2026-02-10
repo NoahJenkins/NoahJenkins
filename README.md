@@ -65,11 +65,6 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   </a>
 </p>
 
-### Activity
-
-<p align="left">
-  <img src="github-metrics-iso.svg" alt="Isometric Calendar Check" width="100%">
-</p>
 
 ## Certifications
 

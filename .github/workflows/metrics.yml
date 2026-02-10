@@ -41,21 +41,13 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: no
 
-      - name: Generate Isometric Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics-iso.svg
-          base: ""
-          user: NoahJenkins
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+      # Isometric calendar generation removed to match README changes
 
       - name: Commit generated file
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore(metrics): update generated metrics"
-          file_pattern: "github-languages.svg github-metrics-iso.svg"
+          file_pattern: "github-languages.svg"
           branch: ${{ github.ref_name }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

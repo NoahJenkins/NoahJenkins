@@ -14,8 +14,8 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <img src="assets/logos/middleby.png" alt="Middleby" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="assets/logos/msi.png" alt="MSI - Millennial Specialty Insurance" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="assets/logos/diligent-robotics.png" alt="Diligent Robotics" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="assets/logos/charles-schwab.png" alt="Charles Schwab" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="assets/logos/best-buy.png" alt="Best Buy" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/logos/charles-schwab.svg" alt="Charles Schwab" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/logos/best-buy.svg" alt="Best Buy" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
 ## Tools and Tech

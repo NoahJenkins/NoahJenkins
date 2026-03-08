@@ -48,7 +48,7 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <img src="assets/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="assets/icons/sqlite.svg" alt="SQLite" width="40" height="40"/>
   <img src="assets/icons/azure.svg" alt="Azure" width="40" height="40"/>
-  <img src="assets/icons/aws.svg" alt="AWS" width="60" height="40"/>
+  <img src="assets/icons/aws.svg" alt="AWS" width="60" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="assets/icons/vercel.svg" alt="Vercel" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="assets/icons/terraform.svg" alt="Terraform" width="40" height="40"/>
   <img src="assets/icons/docker.svg" alt="Docker" width="40" height="40"/>

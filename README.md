@@ -11,11 +11,11 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
 ## Where I've Worked
 
 <p align="left">
-  <img src="https://download.logo.wine/logo/Middleby_Corporation/Middleby_Corporation-Logo.wine.png" alt="Middleby" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://msimga.com/wp-content/uploads/sites/7/2025/08/MSI-Logo-New-Tagline-RBG-01.png" alt="MSI - Millennial Specialty Insurance" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://diligentrobots.com&size=128" alt="Diligent Robotics" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Charles_Schwab_Corporation_logo.svg/1024px-Charles_Schwab_Corporation_logo.svg.png" alt="Charles Schwab" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Best_Buy_Logo.svg/1024px-Best_Buy_Logo.svg.png" alt="Best Buy" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/logos/middleby.png" alt="Middleby" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/logos/msi.png" alt="MSI - Millennial Specialty Insurance" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/logos/diligent-robotics.png" alt="Diligent Robotics" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/logos/charles-schwab.svg" alt="Charles Schwab" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/logos/best-buy.svg" alt="Best Buy" height="45" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
 ## Tools and Tech
@@ -23,38 +23,38 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
 ### My Current Professional Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="48" height="48"/>
-  <img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/visualstudiobicep/0.36.1.42791/1748626478444/Microsoft.VisualStudio.Services.Icons.Default" alt="Bicep" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubcopilot.svg" alt="GitHub Copilot" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Claude_AI_symbol.svg" alt="Claude" width="48" height="48"/>
+  <img src="assets/icons/azure.svg" alt="Azure" width="48" height="48"/>
+  <img src="assets/icons/bicep.png" alt="Bicep" width="48" height="48"/>
+  <img src="assets/icons/docker.svg" alt="Docker" width="48" height="48"/>
+  <img src="assets/icons/vercel.svg" alt="Vercel" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/typescript.svg" alt="TypeScript" width="48" height="48"/>
+  <img src="assets/icons/nodejs.svg" alt="Node.js" width="48" height="48"/>
+  <img src="assets/icons/react.svg" alt="React" width="48" height="48"/>
+  <img src="assets/icons/python.svg" alt="Python" width="48" height="48"/>
+  <img src="assets/icons/github-copilot.svg" alt="GitHub Copilot" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/claude.svg" alt="Claude" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
 ### Languages and Tools I Have Used
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/visualstudiobicep/0.36.1.42791/1748626478444/Microsoft.VisualStudio.Services.Icons.Default" alt="Bicep" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubcopilot.svg" alt="GitHub Copilot" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Claude_AI_symbol.svg" alt="Claude" width="40" height="40"/>
+  <img src="assets/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="assets/icons/python.svg" alt="Python" width="40" height="40"/>
+  <img src="assets/icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
+  <img src="assets/icons/react.svg" alt="React" width="40" height="40"/>
+  <img src="assets/icons/nextjs.svg" alt="Next.js" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/expo.svg" alt="Expo" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/powershell.svg" alt="PowerShell" width="40" height="40"/>
+  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="assets/icons/sqlite.svg" alt="SQLite" width="40" height="40"/>
+  <img src="assets/icons/azure.svg" alt="Azure" width="40" height="40"/>
+  <img src="assets/icons/aws.svg" alt="AWS" width="60" height="40"/>
+  <img src="assets/icons/vercel.svg" alt="Vercel" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/terraform.svg" alt="Terraform" width="40" height="40"/>
+  <img src="assets/icons/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="assets/icons/bicep.png" alt="Bicep" width="40" height="40"/>
+  <img src="assets/icons/github-copilot.svg" alt="GitHub Copilot" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/claude.svg" alt="Claude" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
 ### My Most Used Languages

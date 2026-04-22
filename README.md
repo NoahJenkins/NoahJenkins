@@ -32,7 +32,7 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <img src="assets/icons/react.svg" alt="React" width="48" height="48"/>
   <img src="assets/icons/python.svg" alt="Python" width="48" height="48"/>
   <img src="assets/icons/github-copilot.svg" alt="GitHub Copilot" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="assets/icons/claude.svg" alt="Claude" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/openai-codex.svg" alt="ChatGPT" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
 ### Languages and Tools I Have Used
@@ -55,6 +55,7 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <img src="assets/icons/bicep.png" alt="Bicep" width="40" height="40"/>
   <img src="assets/icons/github-copilot.svg" alt="GitHub Copilot" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="assets/icons/claude.svg" alt="Claude" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/openai-codex.svg" alt="ChatGPT" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
 ### My Most Used Languages

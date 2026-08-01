@@ -26,35 +26,28 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
   <img src="assets/icons/azure.svg" alt="Azure" width="48" height="48"/>
   <img src="assets/icons/bicep.png" alt="Bicep" width="48" height="48"/>
   <img src="assets/icons/docker.svg" alt="Docker" width="48" height="48"/>
+  <img src="assets/icons/cloudflare.svg" alt="Cloudflare" width="48" height="48"/>
   <img src="assets/icons/vercel.svg" alt="Vercel" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="assets/icons/typescript.svg" alt="TypeScript" width="48" height="48"/>
   <img src="assets/icons/nodejs.svg" alt="Node.js" width="48" height="48"/>
   <img src="assets/icons/react.svg" alt="React" width="48" height="48"/>
   <img src="assets/icons/python.svg" alt="Python" width="48" height="48"/>
+  <img src="assets/icons/sqlite.svg" alt="SQLite" width="48" height="48"/>
   <img src="assets/icons/github-copilot.svg" alt="GitHub Copilot" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/openai-codex.svg" alt="OpenAI Codex" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="assets/icons/claude.svg" alt="Claude" width="48" height="48" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
-### Languages and Tools I Have Used
+### Other Languages and Tools I Have Used
 
 <p align="left">
-  <img src="assets/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="assets/icons/python.svg" alt="Python" width="40" height="40"/>
-  <img src="assets/icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
-  <img src="assets/icons/react.svg" alt="React" width="40" height="40"/>
   <img src="assets/icons/nextjs.svg" alt="Next.js" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="assets/icons/expo.svg" alt="Expo" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
   <img src="assets/icons/powershell.svg" alt="PowerShell" width="40" height="40"/>
   <img src="assets/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="assets/icons/sqlite.svg" alt="SQLite" width="40" height="40"/>
-  <img src="assets/icons/azure.svg" alt="Azure" width="40" height="40"/>
   <img src="assets/icons/aws.svg" alt="AWS" width="60" height="40"/>
-  <img src="assets/icons/vercel.svg" alt="Vercel" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="assets/icons/digitalocean.svg" alt="DigitalOcean" width="40" height="40"/>
   <img src="assets/icons/terraform.svg" alt="Terraform" width="40" height="40"/>
-  <img src="assets/icons/docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="assets/icons/bicep.png" alt="Bicep" width="40" height="40"/>
-  <img src="assets/icons/github-copilot.svg" alt="GitHub Copilot" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
-  <img src="assets/icons/claude.svg" alt="Claude" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;"/>
 </p>
 
 ### My Most Used Languages
@@ -135,4 +128,3 @@ Hi there! I'm Noah, a Christ follower, Cloud Engineer, and Full Stack Software D
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-

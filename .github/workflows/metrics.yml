@@ -3,28 +3,28 @@ name: Generate GitHub Metrics
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *' # daily at 06:00 UTC
-  push:
-    branches:
-      - main
-      - master
+    - cron: '37 5 * * 1' # weekly (Monday), off the top of the hour
+
+permissions: {}
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
-      contents: write
+      contents: write # metrics commits the SVG itself, through the API, with github.token
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate Metrics SVG
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           # Token stored in repository secrets (see README notes)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Output filename (committed back to repo)
+          # Output filename (committed to the default branch by the action)
           filename: github-languages.svg
 
           # Minimal base to keep output compact (only plugins shown)
@@ -40,14 +40,3 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_indepth: no
-
-      # Isometric calendar generation removed to match README changes
-
-      - name: Commit generated file
-        uses: stefanzweifel/git-auto-commit-action@v6
-        with:
-          commit_message: "chore(metrics): update generated metrics"
-          file_pattern: "github-languages.svg"
-          branch: ${{ github.ref_name }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -6,7 +6,7 @@ This is a GitHub profile README repository showcasing Noah's professional experi
 
 - **Primary file**: [README.md](../README.md) - the GitHub profile page displayed at github.com/NoahJenkins
 - **Auto-generated assets**: `github-languages.svg` (language statistics chart)
-- **Automated workflow**: [.github/workflows/metrics.yml](.github/workflows/metrics.yml) generates metrics daily at 06:00 UTC
+- **Automated workflow**: [.github/workflows/metrics.yml](.github/workflows/metrics.yml) generates metrics weekly (Monday, 05:37 UTC)
 
 ## Markdown Conventions
 
@@ -31,14 +31,14 @@ This is a GitHub profile README repository showcasing Noah's professional experi
 ## GitHub Actions Workflow
 
 The `metrics.yml` workflow:
-- Runs on push to main/master, manual dispatch, or daily schedule
-- Uses `lowlighter/metrics@latest` action to generate `github-languages.svg`
-- Auto-commits generated files back to the repository
+- Runs on manual dispatch or a weekly schedule (no push trigger)
+- Uses `lowlighter/metrics` pinned by commit SHA (`# vX.Y.Z`; Dependabot updates it monthly) to generate `github-languages.svg`
+- The action itself commits the SVG to the default branch; there is no separate commit step
 - Requires `METRICS_TOKEN` secret (GitHub personal access token)
 
 ### When Removing Features
 - Update both README.md display sections AND workflow generation steps
-- Adjust `file_pattern` in commit step to match generated files
+- Adjust `filename` in the metrics step to match generated files
 
 ## Editing Guidelines
 
